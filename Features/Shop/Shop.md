@@ -1,0 +1,4 @@
+- product card as on [main website](https://prostastal.com/nozhi/) 
+- opportunity to [[Customizer | customize]] preset knife 
+- [[Order]]
+- [[Filters]]

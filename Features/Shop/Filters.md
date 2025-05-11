@@ -1,0 +1,10 @@
+- by type (knife, fastening, etc)
+- by name
+- by blade coating
+- by colors (==NEED MORE DETAILS==)
+- by style (Roman, Scandinavian, etc)
+- by price
+- by purpose
+- by blade length
+- by total length
+- by weight

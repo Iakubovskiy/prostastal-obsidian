@@ -1,0 +1,8 @@
+- choosing blade shape
+- choosing handle color
+- choosing coating color
+- choosing sheath color
+- choosing fastening (кріплення)
+- [[Engravings]]
+- additional attachments (maybe same as fastening, **not sure** for now)
+- sharpening angle customization options (in characteristics is default)

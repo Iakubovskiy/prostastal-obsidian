@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"0ba095707bd11dcc","type":"text","text":"[[Shop]]","x":-602,"y":-126,"width":250,"height":60},
+		{"id":"8eac18d308d92b73","type":"text","text":"[[Filters]]","x":-900,"y":103,"width":250,"height":61},
+		{"id":"f8f67b6154d9f1be","type":"text","text":"[[Order]]","x":-602,"y":103,"width":250,"height":61},
+		{"id":"5f75a67273fdb971","type":"text","text":"[[Engravings]]","x":-270,"y":103,"width":250,"height":61},
+		{"id":"cdebb9c171a026dd","type":"text","text":"[[Engravings library]]","x":20,"y":103,"width":250,"height":60},
+		{"id":"25279f52bdea8499","type":"text","text":"[[Customizer]]","x":-120,"y":-126,"width":250,"height":60},
+		{"id":"4ee4f708914ae999","type":"text","text":"[[Features]]","x":130,"y":-440,"width":250,"height":60},
+		{"id":"167ef28ee9af3171","x":760,"y":-126,"width":250,"height":60,"type":"text","text":"[[2+ languages]]"},
+		{"id":"4ab26a417443a1ec","x":320,"y":-126,"width":250,"height":60,"type":"text","text":"[[Admin panel]]"}
+	],
+	"edges":[
+		{"id":"0d6b75717ba36ec0","fromNode":"4ee4f708914ae999","fromSide":"bottom","toNode":"0ba095707bd11dcc","toSide":"top"},
+		{"id":"7a2fc19962e55a0d","fromNode":"4ee4f708914ae999","fromSide":"bottom","toNode":"25279f52bdea8499","toSide":"top"},
+		{"id":"f9ffc9fb80693a50","fromNode":"0ba095707bd11dcc","fromSide":"bottom","toNode":"8eac18d308d92b73","toSide":"top"},
+		{"id":"51db6c9beae09161","fromNode":"0ba095707bd11dcc","fromSide":"bottom","toNode":"f8f67b6154d9f1be","toSide":"top"},
+		{"id":"b020420d879639b8","fromNode":"25279f52bdea8499","fromSide":"bottom","toNode":"5f75a67273fdb971","toSide":"top"},
+		{"id":"0874736d86c96829","fromNode":"25279f52bdea8499","fromSide":"bottom","toNode":"cdebb9c171a026dd","toSide":"top"},
+		{"id":"6eb2027f5712cc7e","fromNode":"4ee4f708914ae999","fromSide":"bottom","toNode":"4ab26a417443a1ec","toSide":"top"},
+		{"id":"fc939fd99ba14357","fromNode":"4ee4f708914ae999","fromSide":"bottom","toNode":"167ef28ee9af3171","toSide":"top"}
+	]
+}

@@ -1,0 +1,3 @@
+- engraving should have name
+- engraving should have tags
+- engraving should have description for [elastic search](https://www.elastic.co/docs/get-started)

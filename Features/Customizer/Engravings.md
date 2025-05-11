@@ -1,0 +1,2 @@
+- create custom engravings – it can be text or photo
+- choose from existing engravings ([[Engravings library]])

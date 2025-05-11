@@ -1,0 +1,4 @@
+- [[Customizer]]
+- [[Shop]]
+- [[Admin panel]]
+- [[2+ languages]]

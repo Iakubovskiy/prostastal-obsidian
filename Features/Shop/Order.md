@@ -1,0 +1,5 @@
+- all chosen products should be added
+- contact data should be provided by user
+- delivery data should be provided by user
+- delivery type should be chosen by user
+- warning about mandatory contacting manager to finish the order

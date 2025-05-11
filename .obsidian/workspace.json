@@ -4,42 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "b665bcdaef84d31c",
+        "id": "9af0783aebd31462",
         "type": "tabs",
         "children": [
           {
-            "id": "79db73fbf72735d1",
+            "id": "06825589f549d78d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Features/Features.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Features"
-            }
-          },
-          {
-            "id": "527835353620ec51",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Features/Feature tree.canvas",
-                "viewState": {
-                  "x": 197.18447842096504,
-                  "y": 351.4799673295148,
-                  "zoom": -1.188372848133246
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Feature tree"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Features/Feature tree.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Feature tree"
+              "title": "Backlinks"
             }
           },
           {
@@ -131,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Features/Feature tree.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Feature tree"
+              "title": "Outgoing links"
             }
           },
           {
@@ -160,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Features/Feature tree.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Feature tree"
+              "title": "Outline"
             }
           }
         ]
@@ -186,21 +161,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "527835353620ec51",
+  "active": "06825589f549d78d",
   "lastOpenFiles": [
+    "Features/Admin panel/Admin panel.md",
+    "Features/Admin panel/Order/Engraving price.md",
+    "Features/Feature tree.canvas",
+    "Features/Admin panel/Customization/Blade shapes.md",
+    "Features/Admin panel/Customization/Fastening.md",
+    "Attachments.md",
+    "Features/Admin panel/Order/Order details.md",
+    "Features/Admin panel/Order/Order statuses.md",
+    "Features/Admin panel/Order/Delivery types.md",
+    "Features/Admin panel/Customization/Knives for sale.md",
+    "Features/Customizer/Customizer.md",
+    "Features/Customizer/Engravings library.md",
+    "Features/Admin panel/Customization/Sheath colors.md",
+    "Features/Admin panel/Customization/Blade coating.md",
+    "Features/Admin panel/Customization/Handle colors.md",
+    "Features/Admin panel/Order",
+    "Features/Admin panel/Customization",
+    "Features/Features.md",
     "Features/Localiztions/2+ languages.md",
     "Features/Localiztions",
-    "Features/Features.md",
-    "Features/Admin panel/Admin panel.md",
     "Features/Admin panel",
-    "Features/Feature tree.canvas",
     "Features/Shop/Shop.md",
     "Features/Shop/Order.md",
     "Features/Shop/Filters.md",
-    "Features/Customizer/Customizer.md",
     "Features",
     "Features/Shop",
-    "Features/Customizer/Engravings library.md",
     "Features/Customizer/Engravings.md",
     "Features/Customizer",
     "Welcome.md"

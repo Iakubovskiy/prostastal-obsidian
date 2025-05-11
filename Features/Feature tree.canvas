@@ -1,14 +1,27 @@
 {
 	"nodes":[
-		{"id":"0ba095707bd11dcc","type":"text","text":"[[Shop]]","x":-602,"y":-126,"width":250,"height":60},
-		{"id":"8eac18d308d92b73","type":"text","text":"[[Filters]]","x":-900,"y":103,"width":250,"height":61},
-		{"id":"f8f67b6154d9f1be","type":"text","text":"[[Order]]","x":-602,"y":103,"width":250,"height":61},
-		{"id":"5f75a67273fdb971","type":"text","text":"[[Engravings]]","x":-270,"y":103,"width":250,"height":61},
-		{"id":"cdebb9c171a026dd","type":"text","text":"[[Engravings library]]","x":20,"y":103,"width":250,"height":60},
-		{"id":"25279f52bdea8499","type":"text","text":"[[Customizer]]","x":-120,"y":-126,"width":250,"height":60},
-		{"id":"4ee4f708914ae999","type":"text","text":"[[Features]]","x":130,"y":-440,"width":250,"height":60},
-		{"id":"167ef28ee9af3171","x":760,"y":-126,"width":250,"height":60,"type":"text","text":"[[2+ languages]]"},
-		{"id":"4ab26a417443a1ec","x":320,"y":-126,"width":250,"height":60,"type":"text","text":"[[Admin panel]]"}
+		{"id":"4ab26a417443a1ec","type":"text","text":"[[Admin panel]]","x":560,"y":-96,"width":250,"height":60},
+		{"id":"0ba095707bd11dcc","type":"text","text":"[[Shop]]","x":-1607,"y":-96,"width":250,"height":60},
+		{"id":"f8f67b6154d9f1be","type":"text","text":"[[Order]]","x":-1460,"y":102,"width":250,"height":61},
+		{"id":"8eac18d308d92b73","type":"text","text":"[[Filters]]","x":-1760,"y":103,"width":250,"height":61},
+		{"id":"5f75a67273fdb971","type":"text","text":"[[Engravings]]","x":-920,"y":104,"width":250,"height":61},
+		{"id":"cdebb9c171a026dd","type":"text","text":"[[Engravings library]]","x":-630,"y":104,"width":250,"height":60},
+		{"id":"25279f52bdea8499","type":"text","text":"[[Customizer]]","x":-755,"y":-126,"width":250,"height":60},
+		{"id":"267462ff2fc542a6","type":"text","text":"Customization","x":210,"y":175,"width":250,"height":60},
+		{"id":"6354b4d617b6d17d","type":"text","text":"[[Attachments]]","x":835,"y":480,"width":250,"height":60},
+		{"id":"1dc1bf1870dd0829","type":"text","text":"[[Blade coating]]","x":-410,"y":480,"width":250,"height":60},
+		{"id":"eb9ad7eaff6a03d4","type":"text","text":"[[Blade shapes]]","x":-130,"y":480,"width":250,"height":60},
+		{"id":"e086d037e7d4050f","type":"text","text":"[[Handle colors]]","x":20,"y":580,"width":250,"height":60},
+		{"id":"cfa51bb9a98bdf04","type":"text","text":"[[Sheath colors]]","x":210,"y":480,"width":250,"height":60},
+		{"id":"6ec260712f7c4728","type":"text","text":"[[Knives for sale]]","x":380,"y":580,"width":250,"height":60},
+		{"id":"7048d8778afdec94","type":"text","text":"[[Fastening]]","x":518,"y":480,"width":224,"height":60},
+		{"id":"8d9c1d6903421c8c","x":1200,"y":427,"width":250,"height":60,"type":"text","text":"[[Order details]]"},
+		{"id":"950f77435c0f7c20","x":1355,"y":510,"width":250,"height":60,"type":"text","text":"[[Order statuses]]"},
+		{"id":"cc9b259ab8162af4","x":1560,"y":427,"width":250,"height":60,"type":"text","text":"[[Engraving price]]"},
+		{"id":"aa581d3e97c695c8","x":1845,"y":427,"width":250,"height":60,"type":"text","text":"[[Delivery types]]"},
+		{"id":"713a9f5787447b80","type":"text","text":"Order","x":1445,"y":195,"width":250,"height":60},
+		{"id":"167ef28ee9af3171","type":"text","text":"[[2+ languages]]","x":1970,"y":-126,"width":250,"height":60},
+		{"id":"4ee4f708914ae999","type":"text","text":"[[Features]]","x":210,"y":-560,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"0d6b75717ba36ec0","fromNode":"4ee4f708914ae999","fromSide":"bottom","toNode":"0ba095707bd11dcc","toSide":"top"},
@@ -18,6 +31,20 @@
 		{"id":"b020420d879639b8","fromNode":"25279f52bdea8499","fromSide":"bottom","toNode":"5f75a67273fdb971","toSide":"top"},
 		{"id":"0874736d86c96829","fromNode":"25279f52bdea8499","fromSide":"bottom","toNode":"cdebb9c171a026dd","toSide":"top"},
 		{"id":"6eb2027f5712cc7e","fromNode":"4ee4f708914ae999","fromSide":"bottom","toNode":"4ab26a417443a1ec","toSide":"top"},
-		{"id":"fc939fd99ba14357","fromNode":"4ee4f708914ae999","fromSide":"bottom","toNode":"167ef28ee9af3171","toSide":"top"}
+		{"id":"fc939fd99ba14357","fromNode":"4ee4f708914ae999","fromSide":"bottom","toNode":"167ef28ee9af3171","toSide":"top"},
+		{"id":"62e0f512cf4ca21d","fromNode":"4ab26a417443a1ec","fromSide":"bottom","toNode":"267462ff2fc542a6","toSide":"top"},
+		{"id":"785634a931ad87ab","fromNode":"4ab26a417443a1ec","fromSide":"bottom","toNode":"713a9f5787447b80","toSide":"top"},
+		{"id":"e675598d6dc8eacb","fromNode":"267462ff2fc542a6","fromSide":"bottom","toNode":"1dc1bf1870dd0829","toSide":"top"},
+		{"id":"d3389ed62666ec29","fromNode":"267462ff2fc542a6","fromSide":"bottom","toNode":"eb9ad7eaff6a03d4","toSide":"top"},
+		{"id":"05b1b8cb22f4a09d","fromNode":"267462ff2fc542a6","fromSide":"bottom","toNode":"7048d8778afdec94","toSide":"top"},
+		{"id":"dcbab90ca9e701ab","fromNode":"267462ff2fc542a6","fromSide":"bottom","toNode":"6354b4d617b6d17d","toSide":"top"},
+		{"id":"8f85c812d8327e2e","fromNode":"6354b4d617b6d17d","fromSide":"left","toNode":"7048d8778afdec94","toSide":"right"},
+		{"id":"70e5b97fa66fbf68","fromNode":"267462ff2fc542a6","fromSide":"bottom","toNode":"e086d037e7d4050f","toSide":"top"},
+		{"id":"ccacc0630d378af4","fromNode":"267462ff2fc542a6","fromSide":"bottom","toNode":"6ec260712f7c4728","toSide":"top"},
+		{"id":"fdd42b88ff0955af","fromNode":"267462ff2fc542a6","fromSide":"bottom","toNode":"cfa51bb9a98bdf04","toSide":"top"},
+		{"id":"f9cd67bc6ba22e59","fromNode":"713a9f5787447b80","fromSide":"bottom","toNode":"8d9c1d6903421c8c","toSide":"top"},
+		{"id":"b80e38801099437f","fromNode":"713a9f5787447b80","fromSide":"bottom","toNode":"cc9b259ab8162af4","toSide":"top"},
+		{"id":"d9d0ea586868a9e4","fromNode":"713a9f5787447b80","fromSide":"bottom","toNode":"aa581d3e97c695c8","toSide":"top"},
+		{"id":"d09bc40ecd090f98","fromNode":"713a9f5787447b80","fromSide":"bottom","toNode":"950f77435c0f7c20","toSide":"top"}
 	]
 }

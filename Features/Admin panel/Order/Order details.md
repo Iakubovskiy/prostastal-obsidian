@@ -1,0 +1,3 @@
+- user data
+- 3D model(s) with configured knife
+- files for engravings
